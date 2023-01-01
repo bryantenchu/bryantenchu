@@ -76,13 +76,13 @@
 
 ## Github Stats
 
-[![Bryan Ron's WakaTime Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bryantenchu&layout=compact&langs_count=6&theme=dracula)][readmestats]
+[![Bryan Ron's WakaTime Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bryantenchu&layout=compact&langs_count=6&theme=synthwave)][readmestats]
 
-[![Bryan Ron's WakaTime Stats](https://github-readme-stats.vercel.app/api?username=bryantenchu&count_private=true&show_icons=true&theme=dracula)][readmestats]
+[![Bryan Ron's WakaTime Stats](https://github-readme-stats.vercel.app/api?username=bryantenchu&count_private=true&show_icons=true&theme=synthwave)][readmestats]
 
-[![Bryan Ron's WakaTime Stats](https://github-readme-streak-stats.herokuapp.com/?user=bryantenchu&theme=dracula)][readmestreak]
+[![Bryan Ron's WakaTime Stats](https://github-readme-streak-stats.herokuapp.com/?user=bryantenchu&theme=synthwave)][readmestreak]
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bryantenchu&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)][readmetrophy]
+[![trophy](https://github-profile-trophy.vercel.app/?username=bryantenchu&theme=synthwave&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)][readmetrophy]
 
 
 
