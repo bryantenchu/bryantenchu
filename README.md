@@ -76,13 +76,14 @@
 
 ## Github Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bryantenchu&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)][readmetrophy]
-
 [![Bryan Ron's WakaTime Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bryantenchu&layout=compact&langs_count=6&theme=dracula)][readmestats]
 
 [![Bryan Ron's WakaTime Stats](https://github-readme-stats.vercel.app/api?username=bryantenchu&count_private=true&show_icons=true&theme=dracula)][readmestats]
 
 [![Bryan Ron's WakaTime Stats](https://github-readme-streak-stats.herokuapp.com/?user=bryantenchu&theme=dracula)][readmestreak]
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bryantenchu&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)][readmetrophy]
+
 
 
 [linkedin]: https://www.linkedin.com/in/bryan-ron-mosquera-109850164/
