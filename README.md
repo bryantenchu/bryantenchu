@@ -42,6 +42,15 @@
     <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 </p>  
 
+### Databases
+
+<p>
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
 ### CMS
 <p>
     <img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
@@ -65,7 +74,19 @@
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
+## Github Stats
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bryantenchuy&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)][readmetrophy]
+
+[![Bryan Ron's WakaTime Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bryantenchu&layout=compact&langs_count=6&theme=dracula)][readmestats]
+
+[![Bryan Ron's WakaTime Stats](https://github-readme-stats.vercel.app/api?username=bryantenchu&count_private=true&show_icons=true&theme=dracula)][readmestats]
+
+[![Bryan Ron's WakaTime Stats](https://github-readme-streak-stats.herokuapp.com/?user=bryantenchu&theme=dracula)][readmestreak]
 
 
 [linkedin]: https://www.linkedin.com/in/bryan-ron-mosquera-109850164/
 [outlook]: mailto:bryan.ron@hotmail.com
+[readmetrophy]: https://github.com/ryo-ma/github-profile-trophy
+[readmestats]: https://github.com/anuraghazra/github-readme-stats
+[readmestreak]: https://github.com/DenverCoder1/github-readme-streak-stats
