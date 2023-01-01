@@ -76,7 +76,7 @@
 
 ## Github Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bryantenchuy&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)][readmetrophy]
+[![trophy](https://github-profile-trophy.vercel.app/?username=bryantenchu&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)][readmetrophy]
 
 [![Bryan Ron's WakaTime Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bryantenchu&layout=compact&langs_count=6&theme=dracula)][readmestats]
 
