@@ -1,4 +1,4 @@
-# Hi there, I'm Bryan
+# Hi there, I'm Bryan 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bryantenchu)
 
