@@ -2,6 +2,14 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bryantenchu)
 
+---
+
+- 🔭 I’m currently working at **Banco Pichincha** 🇪🇨
+- 🌱 I’m currently learning Astro and AWS
+- 🎯 2023 Goals: Get AWS Practitioner Certification and improve my English Skills
+
+## Languages and Tools
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryantenchu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
