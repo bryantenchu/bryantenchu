@@ -82,7 +82,7 @@
 
 [![Bryan Ron's WakaTime Stats](https://github-readme-streak-stats.herokuapp.com/?user=bryantenchu&theme=synthwave)][readmestreak]
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bryantenchu&theme=synthwave&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)][readmetrophy]
+[![trophy](https://github-profile-trophy.vercel.app/?username=bryantenchu&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)][readmetrophy]
 
 
 
