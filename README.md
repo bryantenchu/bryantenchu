@@ -2,6 +2,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bryantenchu)
 
+<center>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />    
+</center>
+
+
+
 ---
 
 - 🔭 I’m currently working at **Banco Pichincha** 🇪🇨
