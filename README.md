@@ -1,12 +1,6 @@
 # Hi there, I'm Bryan 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=bryantenchu)
-
-<center>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />    
-</center>
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=bryantenchu&color=brightgreen&style=for-the-badge)
 
 ---
 
