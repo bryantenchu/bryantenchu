@@ -7,7 +7,6 @@
 
 ---
 
-- 🔭 I’m currently working at **Banco Pichincha** 🇪🇨
 - 🌱 I’m currently learning **Astro** and **AWS**
 - 🎯 2023 Goals: Get AWS Practitioner Certification and improve my English skills
 
