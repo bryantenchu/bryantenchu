@@ -7,8 +7,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Astro** and **AWS**
-- 🎯 2023 Goals: Get AWS Practitioner Certification and improve my English skills
+- 🌱 I’m currently learning **Astro**
 
 ## Connect with me
 [<img alt="Bryan Ron Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] 
